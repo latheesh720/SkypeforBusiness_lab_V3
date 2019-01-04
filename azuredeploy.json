@@ -120,7 +120,7 @@
       "VMAVset": [ "[variables('AVSetName')[0]]", "[variables('AVSetName')[0]]", "[variables('AVSetName')[0]]", "[variables('AVSetName')[1]]", "[variables('AVSetName')[1]]" ],
       "publisher": [ "MicrosoftWindowsServer", "MicrosoftWindowsServer", "MicrosoftWindowsServer", "MicrosoftWindowsServer", "MicrosoftWindowsServer" ],
       "offer": [ "WindowsServer", "WindowsServer", "WindowsServer", "WindowsServer", "WindowsServer" ],
-      "sku": [ "2016-Datacenter", "2012-R2-Datacenter", "2016-Datacenter", "2016-Datacenter", "2012-R2-Datacenter" ]
+      "sku": [ "2016-Datacenter", "2016-Datacenter", "2016-Datacenter", "2016-Datacenter", "2012-R2-Datacenter" ]
     },
     "VMclients": {
       "VMName": [ "VM-SFB-CL1", "VM-SFB-CL2" ],
